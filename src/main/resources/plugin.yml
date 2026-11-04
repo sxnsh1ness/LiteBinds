@@ -1,0 +1,8 @@
+name: LiteBinds
+version: '${project.version}'
+main: me.sxnsh1ness.litebinds.LiteBindsPlugin
+api-version: '1.16'
+authors: [Sxnsh1ne, sh4dowgirl, nezxenka]
+commands:
+  binds:
+    usage: /binds
